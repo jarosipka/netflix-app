@@ -1,1 +1,1 @@
-https://netflix-sipka.netlify.app/?fbclid=IwAR2znogBQdpBX0JZ_WjfZeT7P5P_3I_k9gwB2N6vC13C4Je4AHmsHZiAAa8
+https://netflix-sipka.netlify.app/
